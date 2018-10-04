@@ -1,2 +1,2 @@
-# scikit_learn_algorithms
-Algorithm Comparison
+## scikit_learn_algorithms
+
